@@ -1,8 +1,3 @@
-
+#!/data/data/com.termux/files/usr/bin/python
 import zhg
-
-# 
-if __name__ == "__main__":
-    # 
-    from zhg import main_menu
-    main_menu()
+zhg.start()
